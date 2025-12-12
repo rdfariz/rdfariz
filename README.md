@@ -1,76 +1,83 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=180&section=header&text=RD%20Fariz&fontSize=50&fontColor=fff&animation=taveWave&fontAlignY=32&desc=Crafting%20Digital%20Experiences%20That%20Matter&descAlignY=52&descSize=18)
+# Fariz
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Problem+Solver+%F0%9F%A7%A9;Building+with+purpose+%E2%9C%A8)](https://git.io/typing-svg)
+**Fullstack Developer**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rdfariz.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rdfariz)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@rdfariz.dev)
+[![Portfolio](https://img.shields.io/badge/rdfariz.my.id-000000?style=flat-square&logo=vercel&logoColor=white)](https://rdfariz.my.id)
+[![Email](https://img.shields.io/badge/Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@rdfariz.my.id)
 
 </div>
 
 ---
 
-## <� What I Do
+## About
+
+Hi! I'm Fariz, a Fullstack Developer who specializes in building clean, responsive, and user-focused applications. My main strength is JavaScript, creating solid frontend experiences and reliable backend logic. I'm also learning Flutter to build cross-platform apps and expand my development stack.
+
+While coding is my core focus, I also have experience in video editing as a supporting skill, helping bring ideas to life through polished and engaging visuals when needed. My goal is to deliver smooth, impactful digital products that work beautifully and feel great to use.
+
+---
+
+## Skills
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[Problem] -->|Analyze| B[Design]
-    B -->|Build| C[Solution]
-    C -->|Test| D[Deploy]
-    D -->|Learn| A
-    style A fill:#f5f5f5,stroke:#333,stroke-width:2px
-    style B fill:#f5f5f5,stroke:#333,stroke-width:2px
-    style C fill:#f5f5f5,stroke:#333,stroke-width:2px
-    style D fill:#f5f5f5,stroke:#333,stroke-width:2px
-```
+### Frontend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+### Backend & Database
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### Design & Multimedia
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
+![UI Graphics](https://img.shields.io/badge/UI_Graphics-000000?style=flat-square&logo=adobe&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## =� Tech Stack
-
-<div align="center">
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Platform
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-## =� Featured Work
+## Featured Work
 
 <div align="center">
 
 [![Project Showcase](https://img.youtube.com/vi/tKznhYj3HrE/maxresdefault.jpg)](https://youtu.be/tKznhYj3HrE?si=IP0OSxm-IhQjUbc-)
 
-**Click to watch** " Project showcase and development journey
+**Project showcase and development journey**
 
 </div>
 
 ---
 
-## =� GitHub Stats
+## See Another Me
+
+<div align="center">
+
+Explore my creative side and other projects
+
+[![Visit Site](https://img.shields.io/badge/yyuuqi.site-Visit_Now-000000?style=flat-square)](https://www.yyuuqi.site/)
+
+</div>
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -84,18 +91,8 @@ graph LR
 
 <div align="center">
 
-### =� Philosophy
-
-> *"Code is like humor. When you have to explain it, it's bad."*
->
-> Write code that speaks for itself (
-
-<br>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=rdfariz&color=gray&style=flat-square&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=100&section=footer"/>
-
-**Let's build something amazing together** =�
+**Let's build something great together**
 
 </div>
