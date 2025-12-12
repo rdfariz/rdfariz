@@ -1,14 +1,23 @@
-<div align="center">
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+<img src="assets/logo.png" alt="Logo" width="180" style="border-radius: 50%;" />
+</td>
+<td width="75%" valign="middle">
 
-<img src="assets/logo.png" alt="Logo" width="200" height="200" style="border-radius: 50%;" />
+### JavaScript Enthusiast
 
-### JavaScript Enthusiast • Fullstack Developer
+<sub>*ジャバスクリプト愛好家*</sub>
 
-<a href="https://rdfariz.my.id" target="_blank">
+<br/>
+
+<a href="https://rdfariz.my.id" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/🌐_rdfariz.my.id-Visit_Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
 </a>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -26,27 +35,60 @@ While coding is my core focus, I also have experience in video editing as a supp
 <tr>
 <td width="50%" valign="top">
 
-### Development
+**Frontend & Mobile**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### Design & Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Styling & Tools**
+
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**AI & Testing**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC9B7A?style=flat-square&logo=anthropic&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=flat-square&logo=midjourney&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
 </td>
 </tr>
@@ -85,9 +127,15 @@ Completed Android Developer Expert and Front-End Web Developer Expert bootcamps.
 
 <div align="center">
 
-[![Project Showcase](https://img.youtube.com/vi/tKznhYj3HrE/maxresdefault.jpg)](https://youtu.be/tKznhYj3HrE?si=p-KX74t_lG8BLtOu)
+<a href="https://youtu.be/tKznhYj3HrE?si=p-KX74t_lG8BLtOu" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.youtube.com/vi/tKznhYj3HrE/maxresdefault.jpg" alt="Project Showcase" />
+</a>
 
-[![Visit Site](https://img.shields.io/badge/yyuuqi.site-Explore_Now-000000?style=flat-square)](https://www.yyuuqi.site/)
+<br/>
+
+<a href="https://www.yyuuqi.site/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/yyuuqi.site-Explore_Now-000000?style=flat-square" alt="Visit Site"/>
+</a>
 
 </div>
 
