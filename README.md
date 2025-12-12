@@ -3,7 +3,7 @@
 <table width="100%">
 <tr>
 <td width="30%" align="center">
-<img src="assets/logo.png" alt="Logo" width="250" style="border-radius: 50%;" />
+<img src="ava.gif" alt="Logo" width="250" style="border-radius: 50%;" />
 </td>
 <td width="70%" valign="middle">
 
@@ -19,7 +19,7 @@ While coding is my core focus, I also have experience in video editing as a supp
   <img src="https://img.shields.io/badge/rdfariz.my.id-Explore_Now-000000?style=flat-square" alt="Visit Site"/>
 </a>
 <a href="https://www.yyuuqi.site/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/yyuuqi.site-Explore_Now-000000?style=flat-square" alt="Visit Site"/>
+  <img src="https://img.shields.io/badge/yyuuqi.site-Commission_Page-000000?style=flat-square" alt="Visit Site"/>
 </a>
 
 </td>
@@ -101,22 +101,23 @@ While coding is my core focus, I also have experience in video editing as a supp
 
 ## Certifications
 
-**Becoming an Android Developer Expert**
-Provider: Dicoding 2020
-
-**Becoming a Front-End Web Developer Expert**
-Provider: Dicoding 2020
+- Dicoding Front-End Web Developer Expert
+- Dicoding Web Programming Fundamentals
+- Dicoding Progressive Web App Developer (PWA)
+- Dicoding Android Developer Expert
+- Dicoding Kotlin Programming
 
 </td>
 <td width="50%" valign="top">
 
-## Other Experiences
+## Bootcamps
 
-**Whimsical Animations Bootcamp**
-Build ultra-polished animations and interactions using SVG, Canvas, and DOM nodes.
+- **Whimsical Animations Bootcamp**
+  Ultra-polished animations and interactions using SVG, Canvas, and DOM nodes
 
-**Dicoding Bootcamp**
-Completed Android Developer Expert and Front-End Web Developer Expert bootcamps. Proficient in PWA development, Kotlin, and JavaScript.
+- **Dicoding Bootcamp**
+  Android Developer Expert and Front-End Web Developer Expert
+  Proficient in PWA development, Kotlin, and JavaScript
 
 </td>
 </tr>
