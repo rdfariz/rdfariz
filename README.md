@@ -1,31 +1,30 @@
+## About
+
 <table width="100%">
 <tr>
-<td width="25%" align="center">
-<img src="assets/logo.png" alt="Logo" width="180" style="border-radius: 50%;" />
+<td width="30%" align="center">
+<img src="assets/logo.png" alt="Logo" width="250" style="border-radius: 50%;" />
 </td>
-<td width="75%" valign="middle">
+<td width="70%" valign="middle">
 
 ### JavaScript Enthusiast
 
 <sub>*ジャバスクリプト愛好家*</sub>
 
-<br/>
+Hi! I'm Fariz, a Fullstack Developer who specializes in building clean, responsive, and user-focused applications. My main strength is JavaScript, creating solid frontend experiences and reliable backend logic. I'm also learning Flutter to build cross-platform apps and expand my development stack.
 
-<a href="https://rdfariz.my.id" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/🌐_rdfariz.my.id-Visit_Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+While coding is my core focus, I also have experience in video editing as a supporting skill, helping bring ideas to life through polished and engaging visuals when needed. My goal is to deliver smooth, impactful digital products that work beautifully and feel great to use.
+
+<a href="https://www.yyuuqi.site/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/rdfariz.my.id-Explore_Now-000000?style=flat-square" alt="Visit Site"/>
+</a>
+<a href="https://www.yyuuqi.site/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/yyuuqi.site-Explore_Now-000000?style=flat-square" alt="Visit Site"/>
 </a>
 
 </td>
 </tr>
 </table>
-
----
-
-## About
-
-Hi! I'm Fariz, a Fullstack Developer who specializes in building clean, responsive, and user-focused applications. My main strength is JavaScript, creating solid frontend experiences and reliable backend logic. I'm also learning Flutter to build cross-platform apps and expand my development stack.
-
-While coding is my core focus, I also have experience in video editing as a supporting skill, helping bring ideas to life through polished and engaging visuals when needed. My goal is to deliver smooth, impactful digital products that work beautifully and feel great to use.
 
 ---
 
@@ -125,17 +124,34 @@ Completed Android Developer Expert and Front-End Web Developer Expert bootcamps.
 
 ---
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
 
-<a href="https://youtu.be/tKznhYj3HrE?si=p-KX74t_lG8BLtOu" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.youtube.com/vi/tKznhYj3HrE/maxresdefault.jpg" alt="Project Showcase" />
+<a href="https://youtu.be/IXTKgATYdt0?si=a8xlO2TWZ1kio3hL" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.youtube.com/vi/IXTKgATYdt0/maxresdefault.jpg" alt="Daily Routine" style="width: 100%; border-radius: 8px;" />
 </a>
 
 <br/>
 
-<a href="https://www.yyuuqi.site/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/yyuuqi.site-Explore_Now-000000?style=flat-square" alt="Visit Site"/>
+<a href="https://youtu.be/IXTKgATYdt0?si=a8xlO2TWZ1kio3hL" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/▶_Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"/>
 </a>
 
-</div>
+</td>
+<td width="50%" align="center" valign="top">
+
+<a href="https://youtu.be/tKznhYj3HrE?si=p-KX74t_lG8BLtOu" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.youtube.com/vi/tKznhYj3HrE/maxresdefault.jpg" alt="Project Showcase" style="width: 100%; border-radius: 8px;" />
+</a>
+
+<br/>
+
+<a href="https://youtu.be/tKznhYj3HrE?si=p-KX74t_lG8BLtOu" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/▶_Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"/>
+</a>
+
+</td>
+</tr>
+</table>
 
