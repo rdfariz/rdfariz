@@ -2,9 +2,6 @@
 
 <table width="100%">
 <tr>
-<td width="30%" align="center">
-<img src="assets/ava.gif" alt="Logo" width="250" style="border-radius: 50%;" />
-</td>
 <td width="70%" valign="middle">
 
 ### JavaScript Enthusiast
@@ -23,6 +20,9 @@ While coding is my core focus, I also have experience in video editing as a supp
   <img src="https://img.shields.io/badge/yyuuqi.site-Commission_Page-000000?style=flat-square" alt="Visit Site"/>
 </a>
 
+</td>
+<td width="30%" align="center">
+<img src="assets/ava.gif" alt="Logo" width="250" style="border-radius: 50%;" />
 </td>
 </tr>
 </table>
