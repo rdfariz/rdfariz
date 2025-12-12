@@ -3,7 +3,7 @@
 <table width="100%">
 <tr>
 <td width="30%" align="center">
-<img src="ava.gif" alt="Logo" width="250" style="border-radius: 50%;" />
+<img src="assets/ava.gif" alt="Logo" width="250" style="border-radius: 50%;" />
 </td>
 <td width="70%" valign="middle">
 
