@@ -18,6 +18,7 @@ While coding is my core focus, I also have experience in video editing as a supp
 <a href="https://www.yyuuqi.site/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/rdfariz.my.id-Explore_Now-000000?style=flat-square" alt="Visit Site"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.yyuuqi.site/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/yyuuqi.site-Commission_Page-000000?style=flat-square" alt="Visit Site"/>
 </a>
@@ -129,6 +130,10 @@ While coding is my core focus, I also have experience in video editing as a supp
 <tr>
 <td width="50%" align="center" valign="top">
 
+**Daily Routine**
+
+<br/>
+
 <a href="https://youtu.be/IXTKgATYdt0?si=a8xlO2TWZ1kio3hL" target="_blank" rel="noopener noreferrer">
   <img src="https://img.youtube.com/vi/IXTKgATYdt0/maxresdefault.jpg" alt="Daily Routine" style="width: 100%; border-radius: 8px;" />
 </a>
@@ -142,8 +147,12 @@ While coding is my core focus, I also have experience in video editing as a supp
 </td>
 <td width="50%" align="center" valign="top">
 
+**Intro**
+
+<br/>
+
 <a href="https://youtu.be/tKznhYj3HrE?si=p-KX74t_lG8BLtOu" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.youtube.com/vi/tKznhYj3HrE/maxresdefault.jpg" alt="Project Showcase" style="width: 100%; border-radius: 8px;" />
+  <img src="https://img.youtube.com/vi/tKznhYj3HrE/maxresdefault.jpg" alt="Intro" style="width: 100%; border-radius: 8px;" />
 </a>
 
 <br/>
