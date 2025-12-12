@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Logo" width="80" height="80" style="border-radius: 50%;" />
-
-# Hi, I'm Fariz 👋
+<img src="assets/logo.png" alt="Logo" width="200" height="200" style="border-radius: 50%;" />
 
 ### JavaScript Enthusiast • Fullstack Developer
 
