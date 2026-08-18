@@ -12,12 +12,8 @@ Hi! I'm Fariz, a Fullstack Developer who specializes in building clean, responsi
 
 While coding is my core focus, I also have experience in video editing as a supporting skill, helping bring ideas to life through polished and engaging visuals when needed. My goal is to deliver smooth, impactful digital products that work beautifully and feel great to use.
 
-<a href="https://www.yyuuqi.site/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.rdfariz.my.id/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/rdfariz.my.id-Explore_Now-000000?style=flat-square" alt="Visit Site"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.yyuuqi.site/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/yyuuqi.site-Commission_Page-000000?style=flat-square" alt="Visit Site"/>
 </a>
 
 </td>
